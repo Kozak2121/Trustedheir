@@ -1,2 +1,1 @@
-# Trustedheir
-The secure, cloud-based application for estate planners that automates the process of managing digital assets. It’s designed to automate the process of organizing client’s digital assets, keeping their login information up-to-date and managing the execution of the digital estate upon client’s passing. https://www.trustedheir.com Responsibilities: Full stack development of service by using MeteorJS (NodeJS + Angular 1).
+# trustedheir
